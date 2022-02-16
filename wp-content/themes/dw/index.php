@@ -1,14 +1,7 @@
-<!doctype html>
-<html  lang="fr" >
-<head>
-    <meta charset="utf8-mb4" />
-    <meta name="viewport" content="width=device-width, initial-scale=1" />
+<?php get_header(); ?>
 
-</head>
-<h1>
-    Hello World
-</h1>
-<body>
+<!-- contenu de mon template -->
 
-</body>
-</html>
+<?php get_footer() ?>
+
+
